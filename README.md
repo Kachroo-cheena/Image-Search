@@ -1,5 +1,4 @@
-# Object-Detection
-
+# Image Search
 ## Overview
 
 * This model takes a input as an image and gives output the most/exactly similar video from the videos dataset(created on backend)
